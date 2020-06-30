@@ -18,3 +18,6 @@ Hier kommt ein Blockquote:
 
 > I’ve always been more interested
 > in the future than in the past.
+
+
+<img src="http://schilderheld.de/img/honk-ueber-uns.jpg"/>
